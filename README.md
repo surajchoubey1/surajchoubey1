@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 On a mission to master programming and entrepreneurship.<br>🔍 Learning: Full-stack development.<br>💡 Projects: 'SECRET', 'SECRET'.<br>📈 Goal: To become a billionaire by 25!
+🚀 On a mission to master programming and entrepreneurship.<br>🔍 Learning: Full-stack development.<br>💡 Projects: 'SECRET', 'SECRET'.<br>
 
 
 # 💻 Tech Stack:
